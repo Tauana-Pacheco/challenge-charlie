@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Tauana-Pacheco/challenge-charlie/static/css/main.bc8dd836.chunk.css",
-    "main.js": "/Tauana-Pacheco/challenge-charlie/static/js/main.c9a7ffbf.chunk.js",
-    "main.js.map": "/Tauana-Pacheco/challenge-charlie/static/js/main.c9a7ffbf.chunk.js.map",
-    "runtime-main.js": "/Tauana-Pacheco/challenge-charlie/static/js/runtime-main.c7c740b5.js",
-    "runtime-main.js.map": "/Tauana-Pacheco/challenge-charlie/static/js/runtime-main.c7c740b5.js.map",
-    "static/js/2.9595f3c7.chunk.js": "/Tauana-Pacheco/challenge-charlie/static/js/2.9595f3c7.chunk.js",
-    "static/js/2.9595f3c7.chunk.js.map": "/Tauana-Pacheco/challenge-charlie/static/js/2.9595f3c7.chunk.js.map",
-    "index.html": "/Tauana-Pacheco/challenge-charlie/index.html",
-    "static/css/main.bc8dd836.chunk.css.map": "/Tauana-Pacheco/challenge-charlie/static/css/main.bc8dd836.chunk.css.map",
-    "static/js/2.9595f3c7.chunk.js.LICENSE.txt": "/Tauana-Pacheco/challenge-charlie/static/js/2.9595f3c7.chunk.js.LICENSE.txt",
-    "static/media/displayweather.css": "/Tauana-Pacheco/challenge-charlie/static/media/th.9c7c2eb5.jpg"
+    "main.css": "/tauana-pacheco/challenge-charlie/static/css/main.10c765e4.chunk.css",
+    "main.js": "/tauana-pacheco/challenge-charlie/static/js/main.c9a7ffbf.chunk.js",
+    "main.js.map": "/tauana-pacheco/challenge-charlie/static/js/main.c9a7ffbf.chunk.js.map",
+    "runtime-main.js": "/tauana-pacheco/challenge-charlie/static/js/runtime-main.94c7d37f.js",
+    "runtime-main.js.map": "/tauana-pacheco/challenge-charlie/static/js/runtime-main.94c7d37f.js.map",
+    "static/js/2.9595f3c7.chunk.js": "/tauana-pacheco/challenge-charlie/static/js/2.9595f3c7.chunk.js",
+    "static/js/2.9595f3c7.chunk.js.map": "/tauana-pacheco/challenge-charlie/static/js/2.9595f3c7.chunk.js.map",
+    "index.html": "/tauana-pacheco/challenge-charlie/index.html",
+    "static/css/main.10c765e4.chunk.css.map": "/tauana-pacheco/challenge-charlie/static/css/main.10c765e4.chunk.css.map",
+    "static/js/2.9595f3c7.chunk.js.LICENSE.txt": "/tauana-pacheco/challenge-charlie/static/js/2.9595f3c7.chunk.js.LICENSE.txt",
+    "static/media/displayweather.css": "/tauana-pacheco/challenge-charlie/static/media/th.9c7c2eb5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7c740b5.js",
+    "static/js/runtime-main.94c7d37f.js",
     "static/js/2.9595f3c7.chunk.js",
-    "static/css/main.bc8dd836.chunk.css",
+    "static/css/main.10c765e4.chunk.css",
     "static/js/main.c9a7ffbf.chunk.js"
   ]
 }
